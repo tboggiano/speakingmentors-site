@@ -4,8 +4,6 @@ description: ''
 featured_image: ''
 
 ---
-# Code of Conduct
-
 All mentors and anyone seeking mentoring through this site are required to agree with the following code of conduct. DLM Consultants (who host this site) will enforce this code as long as this site is live. We expect cooperation from all participants, to ensure a safe environment for everyone.
 
 ## The Short Version (if you read nothing else, please read this)
