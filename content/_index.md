@@ -1,7 +1,7 @@
 ---
-title: 'Speaking Mentors: A bunch of people who enjoy mentoring new speakers for free'
+title: Speaking Mentors
 featured_image: "/images/img_4802.JPEG"
-description: Angela Henry SQLBits 2022
+description: ''
 
 ---
 We are a bunch of experienced speakers who freely and without caveats offer our time to support first-time speakers to deliver their first few sessions at tech meetups and/or conferences.
